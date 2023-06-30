@@ -10,6 +10,10 @@ export default function Document() {
           href='/images/apple-touch-icon.png'
         />
         <link rel='shortcut icon' href='/images/favicon.png' />
+        <link
+          href='https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Round'
+          rel='stylesheet'
+        />
       </Head>
       <body>
         <Main />
